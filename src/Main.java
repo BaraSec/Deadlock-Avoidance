@@ -3,9 +3,6 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// Name : Bara Adnan
-// BZU #ID : 1161357
-
 public class Main {
 
     public static void main(String[] args)
